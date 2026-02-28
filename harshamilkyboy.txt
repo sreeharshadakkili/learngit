@@ -6,12 +6,12 @@ NAME    : Hari Shankar
 ROLE    : Full Stack Developer
 EMAIL   : hari.shankar@email.com
 GITHUB  : github.com/harishankar
-LINKEDIN: linkedin.com/in/harishankar
+LINKEDIN: linkedin.com/in/harsha
 
 --------------------------------------------
 ABOUT ME
 --------------------------------------------
-Hey! I'm Hari, a passionate full stack developer
+Hey! I'm Hri, a passionate full stack developer
 who loves building clean, scalable web applications.
 I enjoy solving real-world problems through code
 and am always eager to learn new technologies.
@@ -25,7 +25,7 @@ Backend    : Node.js, Express, FastAPI, Spring Boot
 Databases  : PostgreSQL, MongoDB, Redis
 DevOps     : Docker, GitHub Actions, AWS, Vercel
 Tools      : Git, VS Code, Postman, Figma
-
+SUDU HACKED IT
 --------------------------------------------
 PROJECTS
 --------------------------------------------
