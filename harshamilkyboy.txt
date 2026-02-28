@@ -1,0 +1,75 @@
+============================================
+        HARI'S PORTFOLIO
+============================================
+
+NAME    : Hari Shankar
+ROLE    : Full Stack Developer
+EMAIL   : hari.shankar@email.com
+GITHUB  : github.com/harishankar
+LINKEDIN: linkedin.com/in/harishankar
+
+--------------------------------------------
+ABOUT ME
+--------------------------------------------
+Hey! I'm Hari, a passionate full stack developer
+who loves building clean, scalable web applications.
+I enjoy solving real-world problems through code
+and am always eager to learn new technologies.
+
+--------------------------------------------
+SKILLS
+--------------------------------------------
+Languages  : JavaScript, TypeScript, Python, Java
+Frontend   : React, Next.js, TailwindCSS, HTML/CSS
+Backend    : Node.js, Express, FastAPI, Spring Boot
+Databases  : PostgreSQL, MongoDB, Redis
+DevOps     : Docker, GitHub Actions, AWS, Vercel
+Tools      : Git, VS Code, Postman, Figma
+
+--------------------------------------------
+PROJECTS
+--------------------------------------------
+
+1. TaskFlow - Project Management App
+   - Built a real-time collaborative task manager
+   - Stack: React, Node.js, Socket.IO, PostgreSQL
+   - Features: drag & drop, live updates, team roles
+   - Link: github.com/harishankar/taskflow
+
+2. ShopEasy - E-Commerce Platform
+   - Developed a full e-commerce site with payments
+   - Stack: Next.js, Stripe, MongoDB, TailwindCSS
+   - Features: cart, checkout, order tracking, admin panel
+   - Link: github.com/harishankar/shopeasy
+
+3. DevBlog - Personal Blogging Platform
+   - Created a markdown-based blog with CMS
+   - Stack: Next.js, MDX, Vercel, GitHub API
+   - Link: github.com/harishankar/devblog
+
+--------------------------------------------
+EXPERIENCE
+--------------------------------------------
+
+Software Developer Intern  |  TechNova Pvt. Ltd.
+June 2023 - Dec 2023
+- Built REST APIs consumed by 10,000+ users
+- Reduced page load time by 35% via code splitting
+- Collaborated with a team of 8 developers
+
+--------------------------------------------
+EDUCATION
+--------------------------------------------
+
+B.Tech in Computer Science
+XYZ Institute of Technology  |  2020 - 2024
+CGPA: 8.7 / 10
+
+--------------------------------------------
+ACHIEVEMENTS
+--------------------------------------------
+- Won 1st place at HackFest 2023 Hackathon
+- Open source contributor with 50+ GitHub stars
+- Solved 300+ problems on LeetCode
+
+============================================
